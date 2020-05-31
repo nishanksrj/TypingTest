@@ -51,7 +51,7 @@ func main(){
   defer db.Close()
 
 
-  fs := http.FileServer(http.Dir("../public"))
+  fs := http.FileServer(http.Dir("./public"))
   http.Handle("/", fs)
 
   // handle socket connection request
