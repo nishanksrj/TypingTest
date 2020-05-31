@@ -13,7 +13,7 @@ git clone https://github.com/nishanksrj/TypingTest.git
 
 Before running, make sure you have Go installed in your system.
 
-[Click to Install](https://golang.org/doc/install)
+[Click to visit the Installation page](https://golang.org/doc/install)
 
 &nbsp;
 
